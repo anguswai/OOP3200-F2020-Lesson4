@@ -1,3 +1,9 @@
+/**
+ * Project OOP3200-F2020-Lesson4
+ * @author Angus Wai
+ * @version 1.0
+ */
+
 #include <iostream>
 
 #include "Person.h"
